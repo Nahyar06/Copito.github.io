@@ -9,10 +9,28 @@
 
 .fuente {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    color: purple;
 }
 
+.fondo1 {
+    background-color: #809bce;
+    padding: 10px;
+}
+.fondo2{
+    background-color: #d6eadf;
+    padding: 10px;
+}
+
+.fondo3{
+    background-color: #b8e0d2;
+    padding: 10px;
+}
+.imagen{
+    border-style: solid;
+    border-color: red;
+    border-radius: 50px;
+}
 body {
-    background-color: black;
+    background-color: white;
     text-align:  center;
 }
