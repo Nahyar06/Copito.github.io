@@ -1,5 +1,10 @@
 #titulo {
     color: violet;
+    border-style: solid;
+    border-color: thistle;
+    border-width: 3px;
+    border-radius: 10px;
+    text-align: center;
 }
 
 .fuente {
@@ -9,4 +14,5 @@
 
 body {
     background-color: black;
+    text-align:  center;
 }
